@@ -57,7 +57,7 @@ Este projeto foi desenvolvido através do curso HTML e CSS: praticando HTML/CSS 
 
 ## Link para acessar projeto publicado:
 
-### [https://link para o projeto publicado](link github pages aluraplus)
+### [https://link para o projeto publicado](https://guhrosseti.github.io/alura-plus/)
 
 ## Feito por:
 
